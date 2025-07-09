@@ -140,8 +140,8 @@ Users can only access pages and actions based on their assigned role.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/mentorship-matching-platform.git
-cd mentorship-matching-platform
+git clone https://github.com/dan-codeit/mentorship_project.git
+cd mentorshipApp
 
 
 
